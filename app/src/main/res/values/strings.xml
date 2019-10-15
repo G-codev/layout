@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Papan Skor</string>
+    <string name="nasibjawa">nasibjawa</string>
+    <string name="full_basket">Full Basket</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="noll_a">0</string>
+    <string name="nol_a">0</string>
+    <string name="pointt">+3 Point</string>
+    <string name="pointttuga">+3 Point</string>
+    <string name="point2">+2 Point</string>
+</resources>
